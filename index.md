@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to simplehappy
 
 You can use the [editor on GitHub](https://github.com/simplehappy8023/simplehappygithub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
